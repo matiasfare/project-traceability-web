@@ -21,3 +21,6 @@ yarn-error.log*
 *.sw?
 
 package-lock.json
+
+#tocket github - David control de dependencias node
+.davidrc
