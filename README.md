@@ -1,0 +1,33 @@
+
+<a href="https://david-dm.org/matiasfare/project-traceability-web" title="dependencies status"><img src="https://david-dm.org/matiasfare/project-traceability-web/status.svg"/></a>
+
+# project-traceability-web
+
+Integrantes:
+* Jazmin Villagra
+* Javier Heisecke
+* Yesshua Lopez
+* Matias Fare
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
